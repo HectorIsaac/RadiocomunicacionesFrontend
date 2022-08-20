@@ -1,0 +1,23 @@
+
+  .configNav{
+    background-color: rgb(163, 183, 190);
+    font-family: Courier New, 'Courier', monospace;
+    font-weight: bold;
+  }
+
+  .faNav{
+  float: left;
+  padding-top: 1%;
+  margin-left: 15px;
+  }
+
+  .Radio-header {
+    background-color: #fbfafc;
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(20, 16, 16);
+  }
+  table, td, th{
+    border: 1px solid black;
+}

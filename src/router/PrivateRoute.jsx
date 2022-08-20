@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { Navigate, useLocation } from "react-router-dom";
 import { AuthContext } from "../log/context/AuthContext";
-
+//dfjjafglkjasflkghlfhfglhfgklkad
 export const PrivateRoute = ({children}) => {
     const {logged}= useContext(AuthContext);
     const {pathname, search} = useLocation();
